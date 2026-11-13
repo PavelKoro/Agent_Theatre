@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-11-13T16:13:01.400027+00:00",
+  "cloud_model": "gpt://b1gbntotj1b57karq6qm/deepseek-v4.1-flash",
+  "local_model": "Qwen/Qwen3-0.6B",
+  "local_device": "cpu",
+  "seed": 42,
+  "status": "complete",
+  "tts": "complete",
+  "narrator_voice": "alena",
+  "narration": "stage introductions and stage directions",
+  "delivery": {
+    "Нина": [
+      "evil",
+      "1.12"
+    ],
+    "Марк": [
+      "neutral",
+      "0.92"
+    ],
+    "БОРТ": [
+      "neutral",
+      "1.0"
+    ]
+  }
+}
